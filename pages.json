@@ -1,0 +1,172 @@
+{
+	"pages": [{
+			"path": "pages/tabBar/chats/chats",
+			"style": {
+				"navigationBarTitleText": "GalChat"
+			}
+		},
+		{
+			"path": "pages/tabBar/contacts/contacts",
+			"style": {
+				"navigationBarTitleText": "通讯录"
+			}
+		},
+		{
+			"path": "pages/tabBar/me/me",
+			"style": {
+				"navigationBarTitleText": "我"
+			}
+		},
+		{
+			"path": "pages/log/log/log",
+			"style": {
+				"navigationBarTitleText": "GalChat"
+			}
+		},
+		{
+			"path": "pages/log/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/log/register/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/tabBar/chats/chat-box",
+			"style": {
+				"navigationBarTitleText": "GalChat"
+			}
+		},
+		{
+			"path": "pages/tabBar/contacts/newVirtualFriend",
+			"style": {
+				"navigationBarTitleText": "新的虚拟朋友"
+			}
+		},
+		{
+			"path": "pages/tabBar/contacts/newRealFriend",
+			"style": {
+				"navigationBarTitleText": "新的真实朋友"
+			}
+		},
+		{
+			"path": "pages/tabBar/contacts/groupChat",
+			"style": {
+				"navigationBarTitleText": "群聊"
+			}
+		},
+		{
+			"path": "pages/tabBar/me/accountSetting",
+			"style": {
+				"navigationBarTitleText": "账号设置"
+			}
+		},
+		{
+			"path": "pages/accountsetting/setnickname",
+			"style": {
+				"navigationBarTitleText": "更改昵称"
+			}
+		},
+		{
+			"path": "pages/accountsetting/setaccount",
+			"style": {
+				"navigationBarTitleText": "更改用户名"
+			}
+		},
+		{
+			"path": "pages/accountsetting/setpassword",
+			"style": {
+				"navigationBarTitleText": "更改密码"
+			}
+		},
+		{
+			"path": "pages/accountsetting/setmood",
+			"style": {
+				"navigationBarTitleText": "设置心情"
+			}
+		},
+		{
+			"path": "pages/accountsetting/setstatus",
+			"style": {
+				"navigationBarTitleText": "设置状态"
+			}
+		},
+		{
+			"path": "pages/accountsetting/setcal",
+			"style": {
+				"navigationBarTitleText": "设置日程"
+			}
+		},
+		{
+			"path": "pages/detail/userdetail",
+			"style": {
+				"navigationBarTitleText": "用户信息"
+			}
+		},
+		{
+			"path": "pages/detail/frienddetail",
+			"style": {
+				"navigationBarTitleText": "好友信息"
+			}
+		},
+		{
+			"path": "pages/tabBar/ai/contacts",
+			"style": {
+				"navigationBarTitleText": "ai friends"
+			}
+		},
+
+
+
+
+		{
+			"path": "pages/tabBar/chats/chat-room",
+			"style": {
+				"navigationBarTitleText": "GalChat"
+			}
+		}
+
+	],
+
+
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#4CAF50",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/tabBar/chats/chats",
+				"iconPath": "static/chat.jpg",
+				"selectedIconPath": "static/chatHL.jpg",
+				"text": "GalChat"
+			},
+			{
+				"pagePath": "pages/tabBar/contacts/contacts",
+				"iconPath": "static/contacts.jpg",
+				"selectedIconPath": "static/contactsHL.jpg",
+				"text": "通讯录"
+			}, {
+				"pagePath": "pages/tabBar/me/me",
+				"iconPath": "static/me.jpg",
+				"selectedIconPath": "static/meHL.jpg",
+				"text": "我"
+			}
+		]
+	}
+
+}
