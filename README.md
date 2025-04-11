@@ -20,3 +20,5 @@ Main Creators: Junhao Hou, Yuxiang Xia, Maksat
 主要创作者: Junhao Hou, Yuxiang Xia, Maksat
 
 #### ":/uni_modules" and ":/unpackage" are not pushed, if needed, please send email to me. (Files pushed seems enough for reproduction in HBuilderX)
+
+#### ":/uni_modules" 和 ":/unpackage" 两个资源文件夹未上传
