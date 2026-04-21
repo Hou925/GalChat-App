@@ -20,6 +20,7 @@ An AI-powered smart chat application built with Vue. GalChat allows you to seaml
 
 Install dependencies:
    ```bash
+   cd GalChat-App
    npm install
    ```
 
