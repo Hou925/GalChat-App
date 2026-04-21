@@ -1,0 +1,123 @@
+
+.container[data-v-635a3669] {
+		padding: 20px;
+		background-color: #f5f5f5;
+}
+.top-section[data-v-635a3669] {
+		display: flex;
+		margin-bottom: 20px;
+		align-items: center;
+}
+.head-sculpture[data-v-635a3669] {
+		width: 80px;
+		height: 80px;
+}
+.head-sculpture uni-image[data-v-635a3669] {
+		width: 100%;
+		height: 100%;
+		border-radius: 50%;
+		/* 如果需要圆形头像 */
+		object-fit: cover;
+		/* 确保图片填充整个容器且不变形 */
+}
+.right-section[data-v-635a3669] {
+		margin-left: 20px;
+}
+.nickname[data-v-635a3669],
+	.account[data-v-635a3669] {
+		font-size: 16px;
+		margin-bottom: 5px;
+		color: #333;
+}
+uni-button[data-v-635a3669] {
+		width: 100%;
+		height: 50px;
+		background-color: #4CAF50;
+		/* 新的默认背景色 */
+		border: none;
+		border-radius: 5px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 14px;
+		margin-bottom: 10px;
+		color: white;
+		/* 按钮文字颜色 */
+		cursor: pointer;
+		transition: background-color 0.3s ease;
+}
+uni-button[data-v-635a3669]:hover {
+		background-color: #45a049;
+		/* 悬停时的背景色 */
+}
+uni-button[data-v-635a3669]:active {
+		background-color: #3e8e41;
+		/* 点击时的背景色 */
+}
+
+	/* 单独修改登出按钮背景色 */
+.logout-button[data-v-635a3669] {
+		background-color: #f44336;
+		/* 红色背景 */
+}
+.logout-button[data-v-635a3669]:hover {
+		background-color: #d32f2f;
+		/* 悬停时的深红色 */
+}
+.logout-button[data-v-635a3669]:active {
+		background-color: #c62828;
+		/* 点击时的深红色 */
+}
+.middle-section[data-v-635a3669] {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 20px;
+}
+.mood[data-v-635a3669],
+	.status[data-v-635a3669] {
+		width: 48%;
+		height: 50px;
+		background-color: #2196F3;
+		/* 给心情和状态按钮添加背景色 */
+		color: white;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 14px;
+}
+.mood[data-v-635a3669]:hover,
+	.status[data-v-635a3669]:hover {
+		background-color: #1976D2;
+		/* 悬停时的背景色 */
+}
+.mood[data-v-635a3669]:active,
+	.status[data-v-635a3669]:active {
+		background-color: #1565C0;
+		/* 点击时的背景色 */
+}
+.settings-section[data-v-635a3669] {
+		margin-bottom: 20px;
+}
+.setting-item[data-v-635a3669] {
+		width: 100%;
+		height: 50px;
+		background-color: #FF9800;
+		/* 给所有设置按钮背景色 */
+		color: white;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 14px;
+		margin-bottom: 10px;
+		border: none;
+		border-radius: 5px;
+		transition: background-color 0.3s ease;
+}
+.setting-item[data-v-635a3669]:hover {
+		background-color: #FB8C00;
+		/* 悬停时的背景色 */
+}
+.setting-item[data-v-635a3669]:active {
+		background-color: #F57C00;
+		/* 点击时的背景色 */
+}

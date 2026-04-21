@@ -1,0 +1,47 @@
+/* 水平间距 */
+/* 水平间距 */
+.cal-textarea.data-v-9ccbb0de {
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+.register .title.data-v-9ccbb0de {
+  padding-top: 150rpx;
+  padding-bottom: 50rpx;
+  color: royalblue;
+  text-align: center;
+  font-size: 60rpx;
+  font-weight: 600;
+}
+.register .form.data-v-9ccbb0de {
+  padding: 50rpx;
+}
+.register .form .btn-submit.data-v-9ccbb0de {
+  margin-top: 80rpx;
+  border-radius: 50rpx;
+}
+.register .nav-login.data-v-9ccbb0de {
+  position: fixed;
+  width: 100%;
+  bottom: 100rpx;
+  color: royalblue;
+  text-align: center;
+  font-size: 32rpx;
+}
+.register .btn-get-code.data-v-9ccbb0de {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 10rpx 20rpx;
+  font-size: 20rpx;
+  cursor: pointer;
+}
+.register .tip-text.data-v-9ccbb0de {
+  color: #666;
+  font-size: 12px;
+  white-space: nowrap;
+}

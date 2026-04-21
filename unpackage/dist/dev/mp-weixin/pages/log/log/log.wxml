@@ -1,0 +1,1 @@
+<view class="container data-v-89f1962c"><view class="button-section data-v-89f1962c"><button class="login-button data-v-89f1962c" bindtap="{{a}}">登录</button><button class="register-button data-v-89f1962c" bindtap="{{b}}">注册</button></view></view>

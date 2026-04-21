@@ -1,0 +1,1 @@
+<view class="nav-bar"><view class="nav-search"><uni-search-bar wx:if="{{b}}" u-i="6d5b8332-0" bind:__l="__l" bindupdateModelValue="{{a}}" u-p="{{b}}"></uni-search-bar></view><view class="nav-add" bindtap="{{d}}"><uni-icons wx:if="{{c}}" u-i="6d5b8332-1" bind:__l="__l" u-p="{{c}}"></uni-icons></view></view>

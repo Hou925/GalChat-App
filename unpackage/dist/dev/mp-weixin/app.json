@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/tabBar/chats/chats",
+    "pages/tabBar/contacts/contacts",
+    "pages/tabBar/me/me",
+    "pages/log/log/log",
+    "pages/log/login/login",
+    "pages/log/register/register",
+    "pages/tabBar/chats/chat-box",
+    "pages/tabBar/contacts/newVirtualFriend",
+    "pages/tabBar/contacts/newRealFriend",
+    "pages/tabBar/contacts/groupChat",
+    "pages/tabBar/me/accountSetting",
+    "pages/accountsetting/setnickname",
+    "pages/accountsetting/setaccount",
+    "pages/accountsetting/setpassword",
+    "pages/accountsetting/setmood",
+    "pages/accountsetting/setstatus",
+    "pages/accountsetting/setcal",
+    "pages/detail/userdetail",
+    "pages/detail/frienddetail",
+    "pages/tabBar/chats/chat-room"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#4CAF50",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/tabBar/chats/chats",
+        "iconPath": "static/chat.jpg",
+        "selectedIconPath": "static/chatHL.jpg",
+        "text": "GalChat"
+      },
+      {
+        "pagePath": "pages/tabBar/contacts/contacts",
+        "iconPath": "static/contacts.jpg",
+        "selectedIconPath": "static/contactsHL.jpg",
+        "text": "通讯录"
+      },
+      {
+        "pagePath": "pages/tabBar/me/me",
+        "iconPath": "static/me.jpg",
+        "selectedIconPath": "static/meHL.jpg",
+        "text": "我"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

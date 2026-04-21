@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "GalChat",
+  "usingComponents": {
+    "uni-search-bar": "../../../uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "chat-item": "../../../components/chat-item/chat-item",
+    "pop-menu": "../../../components/pop-menu/pop-menu"
+  }
+}

@@ -1,0 +1,13 @@
+
+.nav-bar {
+		padding: 2rpx 10rpx;
+		display: flex;
+		align-items: center;
+		background-color: white;
+.nav-search {
+			flex: 1;
+}
+.nav-add {
+			cursor: pointer;
+}
+}

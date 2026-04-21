@@ -1,0 +1,25 @@
+/* 水平间距 */
+/* 水平间距 */
+.login .title.data-v-1fa4d8f7 {
+  padding-top: 150rpx;
+  padding-bottom: 50rpx;
+  color: royalblue;
+  text-align: center;
+  font-size: 60rpx;
+  font-weight: 600;
+}
+.login .form.data-v-1fa4d8f7 {
+  padding: 50rpx;
+}
+.login .form .btn-submit.data-v-1fa4d8f7 {
+  margin-top: 80rpx;
+  border-radius: 50rpx;
+}
+.login .nav-register.data-v-1fa4d8f7 {
+  position: fixed;
+  width: 100%;
+  bottom: 100rpx;
+  color: royalblue;
+  text-align: center;
+  font-size: 32rpx;
+}

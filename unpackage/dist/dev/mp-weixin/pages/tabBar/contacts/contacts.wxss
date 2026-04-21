@@ -1,0 +1,50 @@
+
+.container {
+		display: flex;
+		flex-direction: column;
+		height: 100vh;
+		/* 让主容器占满整个页面 */
+}
+
+	/* 顶部快捷操作样式 */
+.top-actions {
+		background-color: #ffffff;
+		border-bottom: 1rpx solid #ccc;
+}
+
+	/* 好友列表容器样式 */
+.friend-list-container {
+		flex: 1;
+		/* 让好友列表填充剩余空间 */
+		padding: 10rpx;
+}
+
+	/* 好友项样式 */
+.friend-item {
+		display: flex;
+		align-items: center;
+		padding: 10rpx 0;
+		border-bottom: 1rpx solid #f0f0f0;
+		cursor: pointer;
+}
+.avatar {
+		width: 60rpx;
+		height: 60rpx;
+		border-radius: 50%;
+		margin-right: 20rpx;
+}
+.friend-name {
+		font-size: 32rpx;
+}
+.nav-bar {
+		padding: 2rpx 10rpx;
+		display: flex;
+		align-items: center;
+		background-color: white;
+.nav-search {
+			flex: 1;
+}
+.nav-add {
+			cursor: pointer;
+}
+}

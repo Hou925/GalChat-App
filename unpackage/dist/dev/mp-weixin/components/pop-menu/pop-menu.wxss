@@ -1,0 +1,32 @@
+/* 水平间距 */
+/* 水平间距 */
+.pop-menu.data-v-c37b8154 {
+  position: relative;
+}
+.pop-menu .menu-overlay.data-v-c37b8154 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+.pop-menu .menu-overlay .menu-content.data-v-c37b8154 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  border-radius: 20rpx 20rpx 0 0;
+  padding: 20rpx;
+}
+.pop-menu .menu-overlay .menu-content .menu-item.data-v-c37b8154 {
+  display: flex;
+  align-items: center;
+  padding: 30rpx;
+  font-size: 32rpx;
+}
+.pop-menu .menu-overlay .menu-content .menu-item .uni-icons.data-v-c37b8154 {
+  margin-right: 20rpx;
+}
